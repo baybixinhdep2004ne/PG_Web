@@ -1,0 +1,65 @@
+body {
+  background-color: antiquewhite;
+}
+#header {
+  text-align: center;
+  color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container {
+  justify-content: center;
+  display: flex;
+}
+div {
+  margin-left: auto;
+  margin-right: auto;
+}
+.content {
+  background-color: blue;
+  padding: 3%;
+  margin-top: 5%;
+  color: white;
+  border-radius: 3%;
+  width: fit-content;
+}
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+span {
+  background-color: white;
+  color: black;
+}
+p {
+  text-indent: 2%;
+  /* text-align: center; */
+}
+.left {
+  margin-left: -2%;
+}
+.special {
+  color: rgb(169, 169, 71);
+  border-left: 4px solid yellow;
+  padding: 10px;
+}
+#btn {
+  margin-top: 1, 4%;
+  width: fit-content;
+}
+button {
+  background-color: yellow;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 8px;
+  border-radius: 10px;
+  font-size: 22px;
+  display: inline-block;
+  cursor: pointer;
+
+  margin: auto;
+  margin-top: 10px;
+  border: none;
+}
+#footer {
+  opacity: 80%;
+  text-align: center;
+  margin-top: 8px;
+}
