@@ -1,0 +1,9 @@
+hr{
+    margin: -20px;
+    background-color: black;
+    color: black;
+    height: 2px;
+}
+.content{
+    margin-top: 40px;
+}
